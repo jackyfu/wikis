@@ -9,9 +9,10 @@
 
 
 ## tools 目录下初始化数据
+### autoload.php  
 
-	### autoload.php  
 	php gen_autoload.php
 
-	### 初始化data目录下的数据
+### 初始化data目录下的数据
+
 	php gen_data.php
